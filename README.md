@@ -1,4 +1,5 @@
 # github-demo
 This is my first Git Repository.
 <br>
-Author - Lucky (apna college)
+<br>
+Author - Lucky Nath(apna college)
